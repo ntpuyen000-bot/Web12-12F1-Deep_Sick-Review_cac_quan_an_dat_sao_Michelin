@@ -4,4 +4,4 @@ Trang web này được thiết kế với bốn phần nội dung chính, bao g
 Dự án này được thực hiện bởi Nguyễn Đức Trí - 12F1 - F03 - 1906229 và Nguyễn Thị Phương Uyên 12F1 - F01 - 1906239.
 Mỗi thành viên có những nhiệm vụ như sau: 
 - Thiết kế giao diện trang web, tìm kiếm hình ảnh, chạy thử trên điện thoại: Phương Uyên
-- Thiết kế html, tìm kiếm thông tin về các nhà hàng và Michelin, kiểm tra các lõi: Đức Trí
+- Thiết kế html, tìm kiếm thông tin về các nhà hàng và Michelin, kiểm tra các lôi: Đức Trí
